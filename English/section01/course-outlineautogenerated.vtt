@@ -2,252 +2,335 @@ WEBVTT
 
 00:00.600 --> 00:04.260
 Hello I'm super excited to start this course with you.
+Bună, sunt super încântat să incep acest curs cu tine.
 
 00:04.320 --> 00:09.510
 But before we do we need to see where we're starting and where we're ending up.
+Dar înainte de a o face, trebuie să vedem de unde începem și unde terminăm.
 
 00:09.870 --> 00:12.210
 So we have a clear path to success.
+Deci avem o cale clară către succes.
 
 00:12.420 --> 00:19.770
 Now this course has over 200 HD videos and tons of exercises and projects but they're all broken down
+Acum, acest curs are peste 200 de videoclipuri HD și tone de exerciții și proiecte, dar sunt toate defalcate
 
 00:19.770 --> 00:23.010
 into sections to help us learn better.
+în secțiuni care să ne ajute să învățăm mai bine.
 
 00:23.010 --> 00:27.310
 The course is going to start off with Python basics in here.
+Cursul va începe cu elementele de bază ale Python aici.
 
 00:27.360 --> 00:32.730
 If this is your first time learning a programming language it's going to be super super helpful even
+Dacă aceasta este prima dată când înveți un limbaj de programare, va fi foarte de ajutor chiar
 
 00:32.730 --> 00:37.770
 for those that know a programming language already but don't know anything about python.
+pentru cei care cunosc deja un limbaj de programare, dar nu știu nimic despre python.
 
 00:37.770 --> 00:44.040
 This section is gonna get you caught up to speed with the basics so that you feel comfortable programming.
+Această secțiune te va face să fii pus la curent cu elementele de bază, astfel încât să te simți confortabil învățând programare.
 
 00:44.040 --> 00:45.330
 This is a big section.
+Aceasta este o secțiune mare.
 
 00:45.510 --> 00:52.320
 So we actually have two parts and along the way you're gonna watch me code but also code yourself and
+Deci, de fapt, avem două părți și pe parcurs veți urmări cum scriu cod eu, dar și cum scrieți cod dvs. și
 
 00:52.320 --> 00:57.330
 practice coding so that you get comfortable with what Python has to offer.
+exersați codarea, astfel încât să te simți confortabil cu ceea ce Python are de oferit.
 
 00:57.390 --> 01:01.630
 Next we talk about a professional python developer environment.
+În continuare vorbim despre un mediu de dezvoltare profesional python.
 
 01:01.710 --> 01:07.530
 We teach you how to use the terminal and the command line about using code editors like Sublime Text
+Vă învățăm cum să folosiți terminalul și linia de comandă privind utilizarea editorilor de cod cum ar fi Sublime Text
 
 01:07.530 --> 01:09.140
 and Visual Studio code.
+și codul Visual Studio.
 
 01:09.150 --> 01:11.110
 We talk about using pi charm.
+Vorbim despre utilizarea programului PyCharm.
 
 01:11.190 --> 01:18.170
 A fully integrated idea for Python developers and also how to use Jupiter notebooks because we're gonna
+O idee complet integrată pentru dezvoltatorii Python și, de asemenea, modul de utilizare a Notebook-urilor Jupiter, pentru că vom 
 
 01:18.210 --> 01:22.710
 use these notebooks later on in the course to do something really really exciting.
+folosi aceste caiete mai târziu în curs pentru a face ceva cu adevărat interesant.
 
 01:22.710 --> 01:24.540
 Hint hint it's machine learning.
+Vă sugerăm învățarea automată.
 
 01:24.540 --> 01:32.040
 And once we have a fully professional developer environment we then get into some advanced Python topics.
 
 01:32.040 --> 01:36.780
 Now this section we're not going to shy away from any tough topics but I'm gonna help you understand
+Acum în această secțiune nu o să abordăm subiecte dificile, dar te voi ajuta să le înțelegi
 
 01:36.780 --> 01:38.500
 them and make sense of it all.
+și să înțelegi totul în ansamblu.
 
 01:38.520 --> 01:45.270
 We're going to talk about classes object oriented programming about decorators generators air handling
+Vom vorbi despre cursuri de programare orientată pe obiecte despre decoratori și generatori în
 
 01:45.330 --> 01:51.740
 functional programming as well as best practices when it comes to how to write clean code.
+programarea funcțională, precum și cele mai bune practici atunci când vine vorba despre modul de scriere a codului curat.
 
 01:52.050 --> 01:58.650
 And we'll also learn about popular Python packages how to work with files how to test our code how to
+Și vom afla, de asemenea, despre pachetele populare Python, cum se lucrează cu fișiere, cum să testăm codul nostru, cum să
 
 01:58.650 --> 02:01.520
 use regular expressions and so much more.
+folosiți expresii obișnuite și multe altele.
 
 02:01.590 --> 02:05.320
 You're ahead my hurt by the end of this section but trust me it's going to be fun.
+Va fi greu până la sfârșitul acestei secțiuni, dar ai încredere în mine că va fi distractiv.
 
 02:05.550 --> 02:08.100
 Now most courses will be done by then.
+Acum, majoritatea cursurilor se vor termina până atunci.
 
 02:08.220 --> 02:12.420
 You've learned python and you should be all set right.
+Vei învăța Python și ar trebui să fii bine.
 
 02:12.420 --> 02:19.560
 Well not really because once we've learned this new language this new syntax we have our computers set
+Ei bine, nu pentru că, odată ce am învățat acest limbaj cu această nouă sintaxă avem calculatoarele noastre setate
 
 02:19.560 --> 02:21.030
 up to work with Python.
+să lucreze cu Python.
 
 02:21.060 --> 02:24.570
 We need to talk about how we can apply our newfound knowledge.
+Trebuie să vorbim despre cum ne putem aplica cunoștințele noi.
 
 02:24.600 --> 02:26.710
 This is the fun part of the course.
+Aceasta este partea distractivă a cursului.
 
 02:26.910 --> 02:30.710
 We start talking about the careers and the career options you have in Python.
+Începem să vorbim despre carierele și opțiunile de carieră pe care le ai în Python.
 
 02:30.990 --> 02:34.180
 Then we get into different fields that we can use python.
+Apoi intrăm în diferite moduri unde putem folosi python.
 
 02:34.380 --> 02:40.260
 We're going to learn about scripting in Python where we use python to send automated emails.
+Vom afla despre scripturi în Python unde folosim python pentru a trimite e-mailuri automate.
 
 02:40.260 --> 02:47.970
 We use python to process images work with PDA files we use python to send ourselves text messages.
+Folosim python pentru a procesa imaginile care lucrează cu fișiere PDA, folosim python pentru a ne trimite mesaje text.
 
 02:47.970 --> 02:54.870
 We build a Twitter bot and my favorite project in this section is we build a password checker to actually
+Construim un bot Twitter și proiectul meu preferat în această secțiune este să construim un verificator de parole pentru ca
 
 02:54.870 --> 02:58.580
 see if the passwords that you use have ever been hacked.
+vedeți dacă parolele pe care le utilizați au fost vreodată piratate.
 
 02:58.590 --> 03:00.350
 It's a really really fun one.
+Este unul cu adevărat distractiv.
 
 03:00.360 --> 03:08.430
 We also talk about data scraping a very common use case with python is to scrape data from online and
+Vorbim, de asemenea, despre extragerea datelor, un caz de utilizare foarte frecvent cu python este de a extrage date de pe internet și
 
 03:08.430 --> 03:10.180
 use it for something productive.
+de a le folosi pentru ceva productiv.
 
 03:10.230 --> 03:15.750
 In our case we're going to learn about data scraping and how we can scrape a really popular Web site
+În cazul nostru, vom afla despre extragerea datelor și cum putem extrage dintrun site Web cu adevărat popular
 
 03:15.750 --> 03:22.350
 for programmers to only select the articles that are important for you to stay up to date with the industry.
+pentru programatori doar pentru a selecta articolele care sunt importante pentru tine pentru a fi la curent cu industria.
 
 03:22.350 --> 03:24.510
 Again it's gonna be a really fun project.
+Din nou, va fi un proiect cu adevărat distractiv.
 
 03:24.510 --> 03:27.760
 I know I'm saying all projects are fun but OK I'm biased.
+Știu că spun că toate proiectele sunt distractive, dar OK sunt părtinitoare
 
 03:27.780 --> 03:28.940
 Give me a break here.
+Dă-mi o pauză aici.
 
 03:28.950 --> 03:34.230
 We're also going to learn about automation and we're going to use something called selenium to actually
+De asemenea, vom învăța despre automatizare și vom folosi ceva numit Selenium pentru actualizarea
 
 03:34.230 --> 03:36.570
 control through our machines.
+controlului prin calculatoarele noastre.
 
 03:36.570 --> 03:43.170
 A web browser and get the machine to do different tasks as if it's a user and there's some really fun
+Un browser web și faceți ca mașina să îndeplinească sarcini diferite, ca și cum ar fi un utilizator și există foarte distractive
 
 03:43.170 --> 03:46.400
 applications when it comes to automation that we'll talk about.
+aplicații atunci când vine vorba de automatizare despre care vom vorbi.
 
 03:46.530 --> 03:53.400
 And then I know I know everybody's two favorite topics web development and data science and machine
+Și atunci știu că cunosc cele două subiecte preferate de dezvoltare web și data science and machine
 
 03:53.400 --> 03:54.340
 learning.
+învăţare.
 
 03:54.510 --> 04:00.090
 These two sections are gonna be a ton of fun and I think are going to probably be the most popular sections
+În aceste două secțiuni vor fi o mulțime de distracții și cred că vor fi probabil cele mai populare secțiuni
 
 04:00.270 --> 04:01.550
 in the web development section.
+în secțiunea de dezvoltare web.
 
 04:01.560 --> 04:10.050
 We're going to learn how to use HCM l CSF and JavaScript as well as Python to build our own server build
+Vom învăța cum să folosim HCM l, CSF și JavaScript, precum și Python pentru a construi propriul nostru server
 
 04:10.110 --> 04:17.490
 our own portfolio Web site put the Web site online in production and have future employers and customers
+propriul nostru portofoliu Web site-ul a pus online site-ul în producție și are viitorii angajatori și clienți
 
 04:17.580 --> 04:19.340
 message you through your Web site.
+vă trimit un mesaj prin intermediul site-ului dvs. Web.
 
 04:19.620 --> 04:24.600
 And yes you're gonna get to customize it and do whatever you want to this portfolio Web site so you
+Și da, vei ajunge să o personalizezi și să faci tot ce vrei cu acest site Web de portofoliu, astfel încât tu
 
 04:24.600 --> 04:26.960
 have something to show for it at the end of the course.
+să ai ceva de arătat pentru asta la sfârșitul cursului.
 
 04:27.120 --> 04:32.280
 And then the machine learning data science part we're going to use something called Jupiter notebooks
+Și apoi în partea machine learning data science, vom folosi ceva numit Notebook-uri Jupiter
 
 04:32.640 --> 04:36.770
 and Kaggle to access some really interesting datasets.
+și Kaggle pentru a accesa câteva seturi de date cu adevărat interesante.
 
 04:36.840 --> 04:42.500
 We're going to use libraries like pandas and psychic learn to predict which soccer players are going
+Vom folosi biblioteci precum Panda și Psihic pentru a învăța să prezicem ce jucători de fotbal merg
 
 04:42.500 --> 04:45.650
 to be the most valuable or are underpaid.
+pentru a fi cei mai valoroși sau sunt neplătite.
 
 04:45.750 --> 04:51.660
 We're going to build our own machine learning model using the iris dataset and then we're also going
+Vom construi propriul nostru model de învățare a mașinilor folosind setul de date Iris și apoi vom merge și noi
 
 04:51.660 --> 04:57.930
 to do some image detection where we can feed the machine learning model an image and it's going to predict
+să facem unele detecții de imagine unde putem alimenta modelul de învățare a mașinii o imagine și ea va prezice
 
 04:57.960 --> 05:04.970
 what the image is of and you're actually going to see how this magic of machine learning works underneath
+despre ce este imaginea și veți vedea de fapt cum funcționează această magie a învățării automate.
 
 05:04.970 --> 05:09.030
 the hood as you can see we have a ton to cover in this course.
+După cum puteți vedea, avem multe de acoperit în acest curs.
 
 05:09.140 --> 05:14.510
 And by the end of it all this is all going to fit in together and makes sense from the very beginning
+Și până la sfârșit, toate acestea se vor potrivi și au sens încă de la început
 
 05:14.570 --> 05:18.300
 of Python basics to the very end with machine learning.
+a elementelor de bază ale Python până la sfârșitul învățării automate.
 
 05:18.320 --> 05:21.230
 We're going to take you from zero to mastery.
+Te vom duce de la zero la stăpânire.
 
 05:21.230 --> 05:21.960
 But you know what.
+Dar tu stii ce.
 
 05:22.010 --> 05:25.660
 The best part of this course is our online community.
+Cea mai bună parte a acestui curs este comunitatea noastră online.
 
 05:25.670 --> 05:31.550
 We have thousands of developers chatting every day helping each other out solving problems together
+Avem mii de dezvoltatori care comunică în fiecare zi, ajutându-se reciproc pentru rezolvarea împreună a problemelor
 
 05:31.820 --> 05:35.240
 and just talking about the latest and greatest in programming.
+și vorbim doar despre cele mai recente și mai bune din programare.
 
 05:35.240 --> 05:37.760
 Now this is an optional resource for you to use.
+Acum aceasta este o resursă opțională pe care o puteți utiliza.
 
 05:37.790 --> 05:41.990
 So you can have back and forth conversations with other students and myself.
+Deci poți avea conversații cu alți studenți și cu mine
 
 05:41.990 --> 05:45.860
 So you feel like you're part of a classroom and you're not doing this all along.
+Deci simți că faci parte dintr-o sală de clasă și nu faci asta de-a lungul timpului.
 
 05:46.400 --> 05:47.230
 But you know what.
+Dar tu stii ce.
 
 05:47.240 --> 05:48.160
 Enough talk.
+Am vorbit destul.
 
 05:48.170 --> 05:49.460
 I know you're getting excited.
+Știu că ești entuziasmat.
 
 05:49.460 --> 05:50.210
 I am too.
+Si eu sunt.
 
 05:50.210 --> 05:51.480
 So let's get started.
+Asadar, haideti sa începem.
 
 05:51.500 --> 05:56.750
 Let's start learning and see why Python has become the most popular language in the world.
+Să începem să învățăm și să vedem de ce Python a devenit cel mai popular limbaj din lume.
